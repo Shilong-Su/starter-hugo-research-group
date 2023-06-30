@@ -8,32 +8,32 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: A Panoramic View of Beijing City from Badachu
+        content: Here is where I was born and lived, also where I dearest in love with...
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: Beijing.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Some Photo Arts
+        content: Taken on the Lion Rock, Hong Kong
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: me.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
+      - title: Know More About ME?
+        content: Just Contact
+        align: left
         background:
           image:
-            filename: welcome.jpg
+            filename: more.jpg
             filters:
               brightness: 0.5
           position: center
