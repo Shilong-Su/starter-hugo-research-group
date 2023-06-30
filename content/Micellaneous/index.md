@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: me.jpg
+            filename: photo.jpg
             filters:
               brightness: 0.7
           position: center
