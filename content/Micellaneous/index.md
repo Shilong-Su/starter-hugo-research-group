@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: Beijing.jpg
+            filename: bj.jpg
             filters:
               brightness: 0.7
           position: right
