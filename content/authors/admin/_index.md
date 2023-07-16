@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 苏世龙 (Shilong (Felix) Su)
+title: Shilong Su
 
 # Full Name (for SEO)
 first_name: Shilong
@@ -72,5 +72,6 @@ user_groups:
   - Researchers
 ---
 
+中文名：苏世龙, you can also call me Felix.
 I am a PhD Student in Prof. Qian Miao's Group, Department of Chemistry, The Chinese University of Hong Kong, working on π-conjugated systems and organic electronics. Born in Beijing, I got B. Sc. in Chemistry and B.A. (minor) in Chinese Language and Literature in Beijing Normal Universtiy, were I worked on carbon nanomaterials and π-conjugated rigid organic macrocycles.
 

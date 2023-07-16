@@ -4,9 +4,9 @@ authors:
   - Cheng-Yan Wu
   - admin
   - Xi Zhang
-  - Rui Liu\*
+  - Rui Liu
   - Bing Gong
-  - Zhong-Lin Lu\*
+  - Zhong-Lin Lu
 
 # author_notes:
 
