@@ -7,8 +7,8 @@ authors:
   - Xingjian Zhuo
   - Qi Gong
   - Xingwei Zeng
-  - admin
-  - Qian Miao\*
+  - **Shilong Su**
+  - Qian Miao\*\
 
 # author_notes:
 #  - 'Equal contribution'
