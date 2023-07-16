@@ -30,7 +30,7 @@ publication_short: 'Angew. Chem. Int. Ed. 2023, 62, e202303242.'
 abstract: A strategy for constructing organic nanotubes with defined lengths was developed by designing and synthesizing macrocycles with a β-alanine linker. Oligomeric hexakis(m-phenylene ethynylene) macrocycles with four macrocyclic units as molecular nanotubes can form potassium and proton channels across lipid bilayers, with the channels being open continuously for over 60 s.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Source Themes
