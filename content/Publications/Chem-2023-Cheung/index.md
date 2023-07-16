@@ -28,7 +28,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: '*Chem, 2023, in press.*'
-publication_short: '*Chem, 2023, in press.*'
+publication_short: ''
 
 abstract: Embedding heptagons in polycyclic aromatic frameworks gives rise to negatively curved molecular nanocarbons, which not only are key fragments of long-sought-after carbon schwarzites but also bring new opportunities to explore unprecedented nanocarbons with interesting properties. This study demonstrates the Scholl reactions of macrocyclic precursors as a general strategy for synthesizing negatively curved molecular nanocarbons containing different numbers of heptagons. The π-backbones containing multiple heptagons are significantly curved and rigid, as revealed by density functional theory calculations and X-ray crystallography. Some of these negatively curved π-backbones are interlocked through both face-to-face and edge-to-face π-π interactions in the crystals. Such unusual π-π interactions have enabled a p-type organic semiconductor, although its hole mobility in the field effect transistors is limited by the amorphous nature of the vacuum-deposited films.
 
@@ -74,8 +74,4 @@ slides:
 ---
 
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
