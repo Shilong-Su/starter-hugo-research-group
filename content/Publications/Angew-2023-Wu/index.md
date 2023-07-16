@@ -2,7 +2,7 @@
 title: 'Covalently Linked Hexakis(m-Phenylene Ethynylene) Macrocycles as Molecular Nanotubes'
 authors:
   - Cheng-Yan Wu
-  - **admin**
+  - admin
   - Xi Zhang
   - Rui Liu\*
   - Bing Gong

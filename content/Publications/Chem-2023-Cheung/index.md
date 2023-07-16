@@ -7,7 +7,7 @@ authors:
   - Xingjian Zhuo
   - Qi Gong
   - Xingwei Zeng
-  - **admin**
+  - admin
   - Qian Miao\*
 
 # author_notes:
