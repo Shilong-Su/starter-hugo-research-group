@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        Graduate student focusing Organic Functional Materials and Semiconductors.
+        PhD Candidate focusing Organic Functional Materials and Semiconductors.
         Born in Beijing, Now in Hong Kong, Looking at the World.
   
   - block: collection
