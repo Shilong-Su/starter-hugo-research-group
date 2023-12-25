@@ -10,7 +10,7 @@ last_name: Su
 superuser: true
 
 # Role/position
-role: PhD Student, Department of Chemistry, The Chinese University of Hong Kong
+role: PhD Candidate, Department of Chemistry, The Chinese University of Hong Kong
 
 # Organizations/Affiliations
 organizations:
@@ -18,16 +18,16 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Student, Department of Chemistry, The Chinese University of Hong Kong
+bio: PhD Candidate, Department of Chemistry, The Chinese University of Hong Kong
 
 interests:
-  - π-Conjugated Systems
-  - Organic Semiconductors
   - Organic Functional Materials
+  - Organic Semiconductors
+  - π-Conjugated Systems
 
 education:
   courses:
-    - course: PhD Student in Chemistry
+    - course: PhD Candidate in Chemistry
       institution: The Chinese University of Hong Kong
       year: 2022-
     - course: B.A in Chinese Language and Literature
@@ -73,5 +73,5 @@ user_groups:
 ---
 
 中文名：苏世龙, you can also call me Felix.
-I am a PhD Student in Prof. Qian Miao's Group, Department of Chemistry, The Chinese University of Hong Kong, working on π-conjugated systems and organic electronics. Born in Beijing, I got B. Sc. in Chemistry and B.A. (minor) in Chinese Language and Literature in Beijing Normal Universtiy, were I worked on carbon nanomaterials and π-conjugated rigid organic macrocycles.
+I am a PhD Candidate in Prof. Qian Miao's Group, Department of Chemistry, The Chinese University of Hong Kong, working on π-conjugated systems and organic semiconductors. Born in Beijing, I got B. Sc. in Chemistry and B.A. (minor) in Chinese Language and Literature in Beijing Normal Universtiy, were I worked on carbon nanomaterials and π-conjugated rigid organic macrocycles.
 
