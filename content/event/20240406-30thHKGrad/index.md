@@ -1,28 +1,28 @@
 ---
-title: Example Event
+title: The 30th Symposium on Chemistry Postgraduate Research in Hong Kong
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: The 30th Symposium on Chemistry Postgraduate Research in Hong Kong
+event_url: https://www.cityu.edu.hk/chem/symposium/homepage/index.htm
 
-location: Wowchemy HQ
+location: City University of Hong Kong & Online
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 83 Tat Chee Avenue
+  city: Kowloon
+  region: HK
+  postcode: 518057
+  country: China
 
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Shilong attended the online poster session of 30th HK grad symposium, sharing his recent research progress.
+abstract: 'Shilong attended the online poster session of 30th HK grad symposium, sharing his recent research progress.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-04-06T10:00:00Z'
+date_end: '2024-04-06T16:15:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-04-07T19:00:00Z'
 
 authors: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Symposium**](https://www.cityu.edu.hk/chem/symposium/homepage/index.htm)'
   focal_point: Right
 
 url_code: ''
