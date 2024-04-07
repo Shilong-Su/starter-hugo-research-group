@@ -5,12 +5,12 @@ event: The 30th Symposium on Chemistry Postgraduate Research in Hong Kong
 event_url: https://www.cityu.edu.hk/chem/symposium/homepage/index.htm#banner
 
 location: City University of Hong Kong & Online
-#address:
-  #street: 450 Serra Mall
-  #city: Stanford
-  #region: CA
-  #postcode: '94305'
-  #country: United States
+address:
+  street: Tat Chee Avenue
+  city: Kowloon
+  region: HK
+  postcode: -
+  country: China
 
 summary: Shilong attended the poster session of 30th HK Chemistry Graduate Symposium.
 abstract: 'Shilong attended the poster session of 30th HK Chemistry Graduate Symposium, sharing his recent research progress online'
