@@ -2,14 +2,13 @@
 title: The 30th Symposium on Chemistry Postgraduate Research in Hong Kong
 
 event: The 30th Symposium on Chemistry Postgraduate Research in Hong Kong
-event_url: https://www.cityu.edu.hk/chem/symposium/homepage/index.htm#banner
-
+event_url: https://www.cityu.edu.hk/chem/symposium/homepage/index.htm
 location: City University of Hong Kong & Online
 address:
   street: Tat Chee Avenue
   city: Kowloon
   region: HK
-  postcode: -
+  postcode: 
   country: China
 
 summary: Shilong attended the poster session of 30th HK Chemistry Graduate Symposium.
